@@ -1,0 +1,21 @@
+Readme.txt
+
+Created by Shengxiang Zhu(Troy) on 3/10/2016
+Updated by Shengxiang Zhu(Troy) on 4/14/2016
+Updated by Shengxiang Zhu(Troy) on 5/3/2016
+Updated by Shengxiang Zhu(Troy) on 5/3/2016
+
+This is the ECE 573 project of team bnb321. The team members are Shengxiang Zhu and Ce Wang. Our full team name is BiniNewbee. We took the class of ECE 573 of the University of Arizona.
+
+The introduction video link is in this foler named “videolink.txt”. You can watch our introduction video on Youtube.
+
+To open the Final release project, please double click the "project-bnb321.xcworkspace" file. Since we used an external library to process our audio signal, we integrated the library into our project. Please make sure that you double click the "xcworkspace" file. DO NOT OPEN THE XCODEPROJ FILE! If you open the xcodeproj file, it may not compile. You may find some error in Xcode at first, but after you compile and run on your iPhone it will be resolved.
+
+If you want to copy the project files, please make sure that you copy all the folders under “bnb321”, which include the “project” folder, “reference” folder and “click sample” folder. It is important if you want to compile the codes!
+
+In the final release we implemented all the required features, including the detection of audio, FFT process, library bridging header file, FFT plot, classification, testing, etc. In this release the app is able to detect real-time audio input and calculate FFT in real time and output the FFT graph and classification result.
+
+The project in under MIT license since the library we integrated is in MIT license. Please refer to the LICENSE file.
+
+If you have any questions regaring the final release, or if you have bug report, please email to szhu@email.arizona.edu.
+

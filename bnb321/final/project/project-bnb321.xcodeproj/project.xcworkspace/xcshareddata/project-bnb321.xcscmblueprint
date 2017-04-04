@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "fcd91762-81a9-4844-bf26-3bcc79886f0e++5969",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "fcd91762-81a9-4844-bf26-3bcc79886f0e++5969" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "fcd91762-81a9-4844-bf26-3bcc79886f0e++5969" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E761D0EC-48D5-4ADD-A627-1A4A9B56C39F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "fcd91762-81a9-4844-bf26-3bcc79886f0e++5969" : "bnb321\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "project-bnb321",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "final\/project\/project-bnb321.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.engr.arizona.edu\/svn\/jms\/ece473-573-2016S",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "fcd91762-81a9-4844-bf26-3bcc79886f0e++5969"
+    }
+  ]
+}
